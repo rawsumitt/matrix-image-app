@@ -1,0 +1,61 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 948-353-935
+INFO:werkzeug: * Detected change in 'C:\\Users\\anshu\\Downloads\\matrix-image-app-main\\matrix-image-app-main\\backend\\app.py', reloading
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 948-353-935
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 11:10:22] "POST /api/generate_matrix HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 11:10:22] "GET /api/results/matrix_64f93d69-a733-4fad-8d86-715a1a6ca14c.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 11:10:34] "POST /api/matrix_operation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 11:10:34] "GET /api/results/result_49274ad9-8fdd-48aa-81b6-3e6a40145fa5.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 11:10:43] "POST /api/upload_image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 11:10:43] "GET /api/results/Blues_e3a8413d-e512-416d-9218-b52f6b2c3830.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 11:10:43] "GET /api/results/Greens_ad1cf8b4-7d7a-421f-a350-0fb7c35e7cb9.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 11:10:43] "GET /api/results/Reds_f85b0e6a-b3a1-4947-823a-f60d0b1d4c8d.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 11:12:08] "POST /api/upload_image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 11:12:08] "GET /api/results/Blues_55c75f13-4d44-49ff-9089-fbde7d5c6b72.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 11:12:08] "GET /api/results/Reds_a86ee01e-7d8c-4d86-ab39-2237dde7b966.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 11:12:08] "GET /api/results/Greens_fbcfc39d-f038-4c23-9387-327028e36d1d.png HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 948-353-935
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 11:15:18] "POST /api/generate_matrix HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 11:15:18] "GET /api/results/matrix_f1b99845-30c5-4def-b9c1-5ddbd31e0429.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 11:15:34] "POST /api/generate_matrix HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 11:15:34] "GET /api/results/matrix_2bfedb8f-da23-4ffa-8527-118f8d7063a2.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 11:15:48] "POST /api/matrix_operation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 11:15:48] "GET /api/results/result_4531ad92-9a75-4b84-9bba-cb7801a15c14.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 11:15:56] "POST /api/upload_image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 11:15:56] "GET /api/results/Greens_822848a5-3074-4ec2-863d-c5d9e7cfdabe.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 11:15:56] "GET /api/results/Reds_440a7454-b5f3-4dbf-bf6d-7d2c5d98502e.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 11:15:56] "GET /api/results/Blues_d81f339f-245e-4df4-b57e-a4035942c8ff.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 11:16:07] "POST /api/upload_image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 11:16:07] "GET /api/results/gray_5513d7a0-484e-4dff-aa0f-bcc99c1f0e45.png HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 948-353-935
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 11:17:22] "POST /api/generate_matrix HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 11:17:22] "GET /api/results/matrix_e0cb170f-e6ff-4208-a7e9-f55ce9f971af.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 11:17:30] "POST /api/matrix_operation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 11:17:30] "GET /api/results/result_7941afa3-c55f-4df0-9c0d-8f320934f7a1.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 11:17:38] "POST /api/matrix_operation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 11:17:38] "GET /api/results/result_0bf94492-4802-470a-a469-bde6ad1e3605.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 11:17:44] "POST /api/matrix_operation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 11:17:44] "GET /api/results/result_a5a12678-bd74-4c5c-acb3-0780996529fb.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 11:17:59] "POST /api/matrix_operation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 11:17:59] "GET /api/results/result_da689a81-e1b9-46f5-8838-62f63fd5c7fa.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 11:18:07] "POST /api/matrix_operation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 11:18:07] "GET /api/results/result_da656ab3-67ec-4e38-a135-b2f63082c5d4.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 11:18:22] "POST /api/upload_image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 11:18:22] "GET /api/results/Blues_c32f4718-4bfa-4b66-ad58-1307f5d54c9a.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 11:18:22] "GET /api/results/Greens_2114b14d-1657-4b59-9210-6bc7a4dc35b5.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2025 11:18:22] "GET /api/results/Reds_6e667768-dcf7-4a78-b71c-7485f0c367ee.png HTTP/1.1" 200 -
